@@ -1,4 +1,4 @@
-# Blender-Project
-These are my Blender Project which is made by my own by learning with Youtube.
+#Gauge Design Project
 
-Check all of my project files above. 
+https://github.com/user-attachments/assets/da7ef406-2894-4279-98b8-eb01aa8c375e
+
